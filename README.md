@@ -1,5 +1,3 @@
-# Introduccion_a_Python_2023
-
 # Introducción a la programación y análisis de datos con Python
 Orientado a la producción agropecuaria
 
